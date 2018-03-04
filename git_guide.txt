@@ -6,3 +6,9 @@ git init
 git status
 
 git add Sri_Tolety.R
+
+git remote add github "https://github.com/s-totally/R-Codes-Repository"
+
+#IF new repo, do git remote add origin instead
+
+git push -f github master #Force push 
