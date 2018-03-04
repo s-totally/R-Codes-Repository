@@ -1,0 +1,8 @@
+# Set as wd:
+# C:\Users\sridevi.tolety\Documents\Study References\R-Codes-Repository
+
+git init
+
+git status
+
+git add Sri_Tolety.R
